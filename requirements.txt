@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+nltk
+joblib
+plotly
+textblob
+google-api-python-client
+youtube_transcript_api
