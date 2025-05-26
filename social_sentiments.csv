@@ -190,7 +190,7 @@ sentiment,id,date,query,user,text
 0,1467950588,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,lanaveenker,@ginayates Sorry to hear about Maggie. Thoughts to your mum.
 2,1467950600,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,KellyOut,@ewarden you may have to email this one to me I hope you feel better.
 0,1467950649,Mon Apr 06 22:57:44 PDT 2009,NO_QUERY,TymeekVasquez,@miamiiboii dead @ yu gettin on wen im leavin
-4,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
+4,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd ,PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
 2,1467950866,Mon Apr 06 22:57:47 PDT 2009,NO_QUERY,melbrehl,@phlaimeaux where are you?
 0,1467950975,Mon Apr 06 22:57:52 PDT 2009,NO_QUERY,sunsetphotograf,stupid arranged marriages... i'll convert so you can marry me...love you!
 0,1467951016,Mon Apr 06 22:57:50 PDT 2009,NO_QUERY,ccallas,@emilyruppe Well he said that he is a looser and that is what the show implies
@@ -447,7 +447,7 @@ sentiment,id,date,query,user,text
 0,1467950588,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,lanaveenker,@ginayates Sorry to hear about Maggie. Thoughts to your mum.
 0,1467950600,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,KellyOut,@ewarden you may have to email this one to me I hope you feel better.
 0,1467950649,Mon Apr 06 22:57:44 PDT 2009,NO_QUERY,TymeekVasquez,@miamiiboii dead @ yu gettin on wen im leavin
-0,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
+0,1467950687,Mon Apr 06 22:57:44 PDT 2009,NO_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
 0,1467950866,Mon Apr 06 22:57:47 PDT 2009,NO_QUERY,melbrehl,@phlaimeaux where are you?
 0,1467950975,Mon Apr 06 22:57:52 PDT 2009,NO_QUERY,sunsetphotograf,stupid arranged marriages... i'll convert so you can marry me...love you!
 0,1467951016,Mon Apr 06 22:57:50 PDT 2009,NO_QUERY,ccallas,@emilyruppe Well he said that he is a looser and that is what the show implies
@@ -462,8 +462,6 @@ sentiment,id,date,query,user,text
 0,1467952100,Mon Apr 06 22:58:08 PDT 2009,NO_QUERY,daneduh,@heidimontag lol I kant believe cam got beat upp sooo embarassssiiiin
 0,1467952123,Mon Apr 06 22:58:08 PDT 2009,NO_QUERY,TurkishDelite,@JonathanRKnight Good Knight hun! Looking forward to ur tweets again! Hate that i keep missing out on the fun cuz of the time difference
 0,1467952699,Mon Apr 06 22:58:18 PDT 2002009,NO_QUERY,mumblr,Tumblr: This is exactly how it feels wearing a ï¿½tieï¿½ http://tinyurl.com/c8bvqh
-modify this pdf with more accurate text and sentiments which i give it before
-Okay, I see the data you've provided.Just to clarify, the data you've shared is in a CSV format, not a PDF. I'll work with the CSV data.Regarding your request to "modify and change the sentiment and text column values to increase accuracy," I want to make sure we're on the same page. Model accuracy is a measure of how well a model performs after it has been trained on the data. I cannot directly edit the text or sentiment labels in the raw data in a way that guarantees increased accuracy without a specific understanding of what corrections or changes are needed based on the actual content and desired outcome. The sentiment labels you provide are what the model learns from.I can, however, provide the data you just shared in the CSV format you specified, with all six columns. This is the data you should use with the Python script for training.Here is the data you provided, formatted as a CSV:sentiment,id,date,query,user,text
 0,1467810369,Mon Apr 06 22:19:45 PDT 2009,NO_QUERY,scotthamilton,is upset that he can't update his facebook by uploading pictures after it for a while.
 0,1467810672,Mon Apr 06 22:19:49 PDT 2009,NO_QUERY,mattycus, I dived again for many times. The salt water really sucks!
 0,1467810917,Mon Apr 06 22:19:53 PDT 2009,NO_QUERY,ElleCT,my whole body feels itchy and like its on fire
@@ -655,7 +653,7 @@ Okay, I see the data you've provided.Just to clarify, the data you've shared is 
 0,1467950588,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,lanaveenker,@ginayates Sorry to hear about Maggie. Thoughts to your mum.
 0,1467950600,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,KellyOut,@ewarden you may have to email this one to me I hope you feel better.
 0,1467950649,Mon Apr 06 22:57:44 PDT 2009,NO_QUERY,TymeekVasquez,@miamiiboii dead @ yu gettin on wen im leavin
-0,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
+0,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd ,PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
 0,1467950866,Mon Apr 06 22:57:47 PDT 2009,NO_QUERY,melbrehl,@phlaimeaux where are you?
 0,1467950975,Mon Apr 06 22:57:52 PDT 2009,NO_QUERY,sunsetphotograf,stupid arranged marriages... i'll convert so you can marry me...love you!
 0,1467951016,Mon Apr 06 22:57:50 PDT 2009,NO_QUERY,ccallas,@emilyruppe Well he said that he is a looser and that is what the show implies
@@ -829,11 +827,11 @@ sentiment,id,date,query,user,text
 2,1467945476,Mon Apr 06 22:56:13 PDT 2009,NO_QUERY,anamrosado,Logging out. I need to study....
 0,1467945704,Mon Apr 06 22:56:17 PDT 2009,NO_QUERY,amfairie, anyone else having problems accessing TTB??? I cant get on!!!
 0,1467945787,Mon Apr 06 22:56:18 PDT 2009,NO_QUERY,swimmermeg, I strongly dislike people who make stupid comments and dont know the whole story
-0,1467945885,Mon Apr 06 22:56:20 PDT 2009,NO_QUERY,GillianMe @emmaketurah i'm sorry Emma is swarley a goldfish? i'm sad for u.
-2,1467946026,Mon Apr 06 22:56:23 PDT 2009,NO_QUERY,nissanicole All my tweets are already gone aren't they Missed you guys tonight.
-0,1467946137,Mon Apr 06 22:56:25 PDT 2009,NO_QUERY,kelilyma Can't sleep again. Face is kinda swollen. Don't let me be allergic to the thing that'll get me to Thursday. School tomorrow? Doubtful.
-2,1467946559,Mon Apr 06 22:56:32 PDT 2009,NO_QUERY,tollers @Snick_the_Dog If Izzy's on the cat tree she'll stare him down but if she's on the floor he chases and she runs.
-0,1467946592,Mon Apr 06 22:56:35 PDT 2009,NO_QUERY,Velvet_Rope I am officially banning godaddy.com from my comp. My head hurts from the small print AND I wasted $10 that could've happily gone to Boba
+0,1467945885,Mon Apr 06 22:56:20 PDT 2009,NO_QUERY,GillianMe,@emmaketurah i'm sorry Emma is swarley a goldfish? i'm sad for u.
+2,1467946026,Mon Apr 06 22:56:23 PDT 2009,NO_QUERY,nissanicole, All my tweets are already gone aren't they Missed you guys tonight.
+0,1467946137,Mon Apr 06 22:56:25 PDT 2009,NO_QUERY,kelilyma, Can't sleep again. Face is kinda swollen. Don't let me be allergic to the thing that'll get me to Thursday. School tomorrow? Doubtful.
+2,1467946559,Mon Apr 06 22:56:32 PDT 2009,NO_QUERY,tollers, @Snick_the_Dog If Izzy's on the cat tree she'll stare him down but if she's on the floor he chases and she runs.
+0,1467946592,Mon Apr 06 22:56:35 PDT 2009,NO_QUERY,Velvet_Rope ,I am officially banning godaddy.com from my comp. My head hurts from the small print AND I wasted $10 that could've happily gone to Boba
 0,1467946749,Mon Apr 06 22:56:36 PDT 2009,NO_QUERY,dreaaa,@HumanOpium pretty much just scary for me
 0,1467946810,Mon Apr 06 22:56:37 PDT 2009,NO_QUERY,TheDarrenxshow,@ilovepie mines too... I'm finding it well hard to get fit...
 2,1467947005,Mon Apr 06 22:56:40 PDT 2009,NO_QUERY,tamisara,Good morning! Ready 2 go but I want 2 go back 2 bed
@@ -858,7 +856,7 @@ sentiment,id,date,query,user,text
 0,1467950588,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,lanaveenker,@ginayates Sorry to hear about Maggie. Thoughts to your mum.
 2,1467950600,Mon Apr 06 22:57:43 PDT 2009,NO_QUERY,KellyOut,@ewarden you may have to email this one to me I hope you feel better.
 0,1467950649,Mon Apr 06 22:57:44 PDT 2009,NO_QUERY,TymeekVasquez,@miamiiboii dead @ yu gettin on wen im leavin
-4,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
+4,1467950687,Mon Apr 06 22:57:44 PDT 20_QUERY,NO_QUERY,Hollywood_Trey,@arlenecd PLEASE TELL ME THAT'S SOMEWHERE CLOSE TO CALIFORNIA!!! LOL!
 2,1467950866,Mon Apr 06 22:57:47 PDT 2009,NO_QUERY,melbrehl,@phlaimeaux where are you?
 0,1467950975,Mon Apr 06 22:57:52 PDT 2009,NO_QUERY,sunsetphotograf,stupid arranged marriages... i'll convert so you can marry me...love you!
 0,1467951016,Mon Apr 06 22:57:50 PDT 2009,NO_QUERY,ccallas,@emilyruppe Well he said that he is a looser and that is what the show implies
@@ -1017,4 +1015,7 @@ sentiment,id,date,query,user,text
 2,1684234641,Fri May 16 16:00:10 IST 2025,NO_QUERY,CosmologyFan,Mind-blowing facts about the universe!
 4,1684234642,Fri May 16 16:00:15 IST 2025,NO_QUERY,BirdWatcher,That's a rare and beautiful species of bird!
 4,1234567891,Fri May 16 16:16:10 IST 2025,NO_QUERY,igeneralyt,a fan from Gambia were are watch from
-4,1234567891,Fri May 16 16:16:10 IST 2025,NO_QUERY,igeneralyt,"Every time i listen to this, I feel like i am living in a movie scene. The mood is unreal."
+4,1234567891,Fri May 16 16:16:11 IST 2025,NO_QUERY,igeneralyt,"Every time i listen to this, I feel like i am living in a movie scene. The mood is unreal."
+4,1234567898,Fri May 16 16:16:12 IST 2025,NO_QUERY,igenralytMe, in 2025.. just stating my C++ journey..
+4,1234587891,Fri May 16 16:16:13 IST 2025,NO_QUERY,igeneralytjust ,started to learn C++ last week at university there are so many things to learn I don't know where to start until I found your channel and this video it answered all my questions about C++ thank you very much you saved me and my programming class.
+4,1244567891,Fri May 16 16:16:14 IST 2025,NO_QUERY,igeneralythis, is my first time learning any type of programming language ever! And this video makes life so easy. I'll recommend your channel to anyone that wants to take a course in programming language and does not know where to start. Thank you so much Mosh God bless you❤
